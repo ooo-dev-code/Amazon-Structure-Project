@@ -33,7 +33,7 @@ function Search_Bar() {
 </svg></button>
         </Search>
         <Panier>
-        Command
+        Panier
         </Panier>
     </Container>
   );
